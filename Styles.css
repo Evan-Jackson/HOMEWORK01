@@ -1,0 +1,72 @@
+/* <!documentype html>
+
+<head>
+<link rel="stylesheet" href="
+https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+body */
+
+.header{
+  background-color: tan;
+/* color: white; */
+padding:46px;
+margin: 285;
+font-size: 114px;
+}
+/* <!--media query--> */
+/* remember laptop tablet, phone. */
+
+  .pokemon {
+    padding: 20px 0;
+    margin: 205;
+    margin-bottom: 20px;
+    font-size: 12px;
+    color: rgb(8, 11, 211);
+    text-align: left;
+    background: pink
+  }
+
+  .Jenny {
+    font-size: 14px;
+    
+    background-color: aqua
+  }
+
+  .AAA {
+    color: #d21034;
+    background-color: blueviolet
+  }
+
+  .container {
+    width: 124px;
+    margin: 0 auto;
+  }
+
+.buttonRed {
+background-color: red;
+text-decoration-style: solid
+}
+
+
+  #main-bio {
+    width: 70%;
+  }
+
+  #contact-info {
+    width: 30%;
+  }
+
+  #bio-image {
+    width: 200px;
+    height: 200px;
+    margin-right: 200px;
+  }
+}
+
+
+
+
+
+@media only screen and (max-with:580px){
+
+  
+}
